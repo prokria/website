@@ -6,7 +6,7 @@
         ProKria
       </h1>
       <h2 class="subtitle">
-        ProKria- The Process of Solution
+        ProKria- Simple Solution
       </h2>
     </div>
   </div>
