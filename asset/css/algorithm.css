@@ -1,0 +1,57 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #000033;
+}
+.logobox{
+    height: 200px;
+    overflow: hidden;
+}
+.logo{
+    height: 120%;
+    width: 100%;
+}
+.logo-header1{
+    font-size: 100px;
+    height: auto;
+    text-align: center;
+    font-family: cursive;
+    overflow: hidden;
+    color: #ccccff;
+    cursor: default;
+}
+.logo-header2{
+    font-size: 20px;
+    height: auto;
+    text-align: center;
+    font-family: monospace;
+    overflow: hidden;
+    color: #ccccff;
+    cursor: default;
+}
+.blue{
+    background-color: #000066;
+    color: #ccccff;
+    cursor: default;
+}
+.raw-jar{
+    border-bottom: 1px solid #000066 ;
+}
+.font-size{
+    font-size: 20px;
+    margin-top: 5px;
+    color: #ccccff;
+    cursor: default;
+}
+.icon{
+    font-size: 20px;
+    color: black;
+    margin-top: 10px;
+    float: right;
+    color: #6666ff;
+    transition: 0.3s;
+}
+.i-right:hover{
+    transform: scale(2);
+    color: #1a1aff;
+}
