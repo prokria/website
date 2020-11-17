@@ -12,15 +12,6 @@ body{
     width: 100%;
 }
 .logo-header1{
-    font-size: 100px;
-    height: auto;
-    text-align: center;
-    font-family: cursive;
-    overflow: hidden;
-    color: #ccccff;
-    cursor: default;
-}
-.logo-header2{
     font-size: 20px;
     height: auto;
     text-align: center;
@@ -36,6 +27,8 @@ body{
 }
 .raw-jar{
     border-bottom: 1px solid #000066 ;
+    margin-left: 0;
+    margin-right: 0;
 }
 .font-size{
     font-size: 20px;
@@ -54,4 +47,32 @@ body{
 .i-right:hover{
     transform: scale(2);
     color: #1a1aff;
+}
+.margin{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+@media only screen and (min-width: 768px){
+    .raw-jar{
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    .margin{
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+}
+
+@media only screen and (min-width: 1025px){
+    .raw-jar{
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    .margin{
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+
 }
