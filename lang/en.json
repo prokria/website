@@ -1,6 +1,7 @@
 {
     "prokria": "Prokria",
     "algorithmexplained": "Algorithm Explained and Animated",
+<<<<<<< HEAD
     "bubble": "Bubble Sort",
     "selection": "Selection Sort",
     "insertion":"Insertion Sort",
@@ -48,4 +49,7 @@
     "datastructure":"Data Structures",
     "theweb":"The Web",
     "recurssion":"Recurssion"
+=======
+    "sort":"Sort"
+>>>>>>> master
 }
