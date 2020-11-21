@@ -1,14 +1,13 @@
 {
     "prokria": "Prokria",
     "algorithmexplained": "Algorithm Explained and Animated",
-<<<<<<< HEAD
     "bubble": "Bubble Sort",
     "selection": "Selection Sort",
     "insertion":"Insertion Sort",
     "heapsort":"Heap Sort",
     "merge":"Merge Sort",
     "quick":"Quick Sort",
-    "k-means":"K-means Algorithm",                                                                            
+    "k-means":"K-means Algorithm",
     "linear":"Linear Search",
     "binary":"Binary Search",
     "breadth":"Breadth-First Search",
@@ -49,7 +48,4 @@
     "datastructure":"Data Structures",
     "theweb":"The Web",
     "recurssion":"Recurssion"
-=======
-    "sort":"Sort"
->>>>>>> master
 }
