@@ -15,6 +15,20 @@
 <body>
     <!--heding-->
     <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-2 ml-auto">
+            <div class="form-group" role="group">
+                <label class="text-white">
+                  <input type="radio" name="language" id="english-button" class="language-button" value="english">
+                  English
+                </label>
+                <label class="text-white ml-2">
+                  <input type="radio" name="language" id="bangla-button" class="language-button" value="bangla">
+                  Bangla
+                </label>
+            </div>
+          </div>
+        </div>
         <div class="row py-3">
             <div class="col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-4 offset-lg-4 logobox">
                 <img class="logo" src="asset/image/prokria logo .png">
@@ -23,7 +37,7 @@
         <div class="row py-2">
             <div class="col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-4 offset-lg-4">
                 <h1 class="logo-header1">
-                    Algorithm Explained and Animated
+                    <span class="algorithmexplained">Algorithm Explained and Animated</span>
                 </h1>
             </div>
         </div>
@@ -32,7 +46,9 @@
     <div class="container-fluid">
         <div class="row margin">
             <div class="col-12 blue">
-                <h1 class="font-size"> Sort </h1>
+                <h1 class="font-size">
+                  <span class="sort">Sort</span>
+                </h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -1132,5 +1148,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <!-- Latest compiled JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="asset/js/language.js"></script>
 </body>
 </html>
