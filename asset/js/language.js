@@ -13,7 +13,7 @@ $(document).ready(function(){
       $('.simulate').text(data.simulate);
       $('.bubble').text(data.bubble);
       $('.selection').text(data.selection);
-      $('.insertion').text(data.insertion);
+      $('.inser').text(data.inser);
       $('.heapsort').text(data.heapsort);
       $('.merge').text(data.merge);
       $('.quick').text(data.quick);
@@ -34,7 +34,7 @@ $(document).ready(function(){
       $('.simulate').text(data.simulate);
       $('.bubble').text(data.bubble);
       $('.selection').text(data.selection);
-      $('.insertion').text(data.insertion);
+      $('.inser').text(data.inser);
       $('.heapsort').text(data.heapsort);
       $('.merge').text(data.merge);
       $('.quick').text(data.quick);
