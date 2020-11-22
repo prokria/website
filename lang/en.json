@@ -7,7 +7,7 @@
     "heapsort":"Heap Sort",
     "merge":"Merge Sort",
     "quick":"Quick Sort",
-    "k-means":"K-means Algorithm",
+    "kmeans":"K-means Algorithm",
     "linear":"Linear Search",
     "binary":"Binary Search",
     "breadth":"Breadth-First Search",
