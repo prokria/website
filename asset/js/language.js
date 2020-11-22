@@ -10,6 +10,7 @@ $(document).ready(function(){
       //Transalation Will be bellow here
       $('.algorithmexplained').text(data.algorithmexplained);
       $('.sort').text(data.sort);
+      $('.simulate').text(data.simulate);
       $('.bubble').text(data.bubble);
       $('.selection').text(data.selection);
       $('.insertion').text(data.insertion);
@@ -17,11 +18,11 @@ $(document).ready(function(){
       $('.merge').text(data.merge);
       $('.quick').text(data.quick);
       $('.clustering').text(data.clustering);
-      $('.k-means').text(data.k-means);
+      $('.kmeans').text(data.k-means);
       $('.listsearch').text(data.listsearch);
       $('.linear').text(data.linear);
       $('.binary').text(data.binary);
-      $('.simulate').text(data.simulate);
+      
       //Transalation Will be above here
     });
   }else{
@@ -30,6 +31,7 @@ $(document).ready(function(){
       //Transalation Will be bellow here
       $('.algorithmexplained').text(data.algorithmexplained);
       $('.sort').text(data.sort);
+      $('.simulate').text(data.simulate);
       $('.bubble').text(data.bubble);
       $('.selection').text(data.selection);
       $('.insertion').text(data.insertion);
@@ -37,11 +39,11 @@ $(document).ready(function(){
       $('.merge').text(data.merge);
       $('.quick').text(data.quick);
       $('.clustering').text(data.clustering);
-      $('.k-means').text(data.k-means);
+      $('.kmeans').text(data.k-means);
       $('.listsearch').text(data.listsearch);
       $('.linear').text(data.linear);
       $('.binary').text(data.binary);
-      $('.simulate').text(data.simulate);
+      
       //Transalation Will be above here
     });
   }
