@@ -3,7 +3,7 @@
     "algorithmexplained": "Algorithm Explained and Animated",
     "bubble": "Bubble Sort",
     "selection": "Selection Sort",
-    "insertion":"Insertion Sort",
+    "inser":"Insertion Sort",
     "heapsort":"Heap Sort",
     "merge":"Merge Sort",
     "quick":"Quick Sort",
