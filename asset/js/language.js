@@ -6,6 +6,8 @@ $(document).ready(function(){
 
   if(localStorage.getItem("prokria-language") === 'bangla'){
     $( "#bangla-button" ).prop("checked", true );
+    $("#logobn").show();
+    $("#logoen").hide();
     $.getJSON('/lang/bn.json',function(data) {
       //Transalation Will be bellow here
       $('.algorithmexplained').text(data.algorithmexplained);
@@ -27,6 +29,8 @@ $(document).ready(function(){
     });
   }else{
     $( "#english-button" ).prop("checked", true );
+    $("#logoen").show();
+    $("#logobn").hide();
     $.getJSON('/lang/en.json',function(data) {
       //Transalation Will be bellow here
       $('.algorithmexplained').text(data.algorithmexplained);

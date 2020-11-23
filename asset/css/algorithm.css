@@ -11,6 +11,9 @@ body{
     height: 120%;
     width: 100%;
 }
+#logobn{
+    display: none;
+}
 .logo-header1{
     font-size: 20px;
     height: auto;
