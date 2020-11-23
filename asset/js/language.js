@@ -19,7 +19,7 @@ $(document).ready(function(){
       $('.quick').text(data.quick);
       $('.clustering').text(data.clustering);
       $('.kmeans').text(data.kmeans);
-      $('.listsearch').text(data.listsearch);
+      $('.list').text(data.list);
       $('.li').text(data.li);
       $('.bi').text(data.bi);
       
@@ -40,7 +40,7 @@ $(document).ready(function(){
       $('.quick').text(data.quick);
       $('.clustering').text(data.clustering);
       $('.kmeans').text(data.kmeans);
-      $('.listsearch').text(data.listsearch);
+      $('.list').text(data.list);
       $('.li').text(data.li);
       $('.bi').text(data.bi);
       

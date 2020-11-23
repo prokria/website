@@ -10,7 +10,7 @@
     "quick":"Quick Sort",
     "clustering":"Clustering",
     "kmeans":"K-means Algorithm",
-    "listsearch":"List Search",
+    "list":"List Search",
     "li":"Linear Search",
     "bi":"Binary Search"
 }
