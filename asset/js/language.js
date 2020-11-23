@@ -18,7 +18,7 @@ $(document).ready(function(){
       $('.merge').text(data.merge);
       $('.quick').text(data.quick);
       $('.clustering').text(data.clustering);
-      $('.kmeans').text(data.kmeans);
+      $('.k-means-algorithm').text(data.k-means-algorithm);
       $('.list').text(data.list);
       $('.li').text(data.li);
       $('.bi').text(data.bi);
@@ -39,7 +39,7 @@ $(document).ready(function(){
       $('.merge').text(data.merge);
       $('.quick').text(data.quick);
       $('.clustering').text(data.clustering);
-      $('.kmeans').text(data.kmeans);
+      $('.k-means-algorithm').text(data.k-means-algorithm);
       $('.list').text(data.list);
       $('.li').text(data.li);
       $('.bi').text(data.bi);

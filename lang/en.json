@@ -9,7 +9,7 @@
     "merge":"Merge Sort",
     "quick":"Quick Sort",
     "clustering":"Clustering",
-    "kmeans":"K-means Algorithm",
+    "k-means-algorithm":"K-means Algorithm",
     "list":"List Search",
     "li":"Linear Search",
     "bi":"Binary Search"
