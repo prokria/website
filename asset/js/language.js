@@ -19,9 +19,9 @@ $(document).ready(function(){
       $('.quick').text(data.quick);
       $('.clustering').text(data.clustering);
       $('.k-means-algorithm').text(data.k-means-algorithm);
-      $('.list').text(data.list);
-      $('.li').text(data.li);
-      $('.bi').text(data.bi);
+      $('.list-search').text(data.list-search);
+      $('.linear-Search').text(data.linear-Search);
+      $('.binary-Search').text(data.binary-Search);
       
       //Transalation Will be above here
     });
@@ -40,9 +40,9 @@ $(document).ready(function(){
       $('.quick').text(data.quick);
       $('.clustering').text(data.clustering);
       $('.k-means-algorithm').text(data.k-means-algorithm);
-      $('.list').text(data.list);
-      $('.li').text(data.li);
-      $('.bi').text(data.bi);
+      $('.list-search').text(data.list-search);
+      $('.linear-Search').text(data.linear-Search);
+      $('.binary-Search').text(data.binary-Search);
       
       //Transalation Will be above here
     });
