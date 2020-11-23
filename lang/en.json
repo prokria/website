@@ -11,6 +11,6 @@
     "clustering":"Clustering",
     "kmeans":"K-means Algorithm",
     "listsearch":"List Search",
-    "linear":"Linear Search",
-    "binary":"Binary Search"
+    "li":"Linear Search",
+    "bi":"Binary Search"
 }

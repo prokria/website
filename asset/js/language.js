@@ -18,10 +18,10 @@ $(document).ready(function(){
       $('.merge').text(data.merge);
       $('.quick').text(data.quick);
       $('.clustering').text(data.clustering);
-      $('.kmeans').text(data.k-means);
+      $('.kmeans').text(data.kmeans);
       $('.listsearch').text(data.listsearch);
-      $('.linear').text(data.linear);
-      $('.binary').text(data.binary);
+      $('.li').text(data.li);
+      $('.bi').text(data.bi);
       
       //Transalation Will be above here
     });
@@ -39,10 +39,10 @@ $(document).ready(function(){
       $('.merge').text(data.merge);
       $('.quick').text(data.quick);
       $('.clustering').text(data.clustering);
-      $('.kmeans').text(data.k-means);
+      $('.kmeans').text(data.kmeans);
       $('.listsearch').text(data.listsearch);
-      $('.linear').text(data.linear);
-      $('.binary').text(data.binary);
+      $('.li').text(data.li);
+      $('.bi').text(data.bi);
       
       //Transalation Will be above here
     });
