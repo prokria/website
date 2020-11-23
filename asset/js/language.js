@@ -18,11 +18,11 @@ $(document).ready(function(){
       $('.merge').text(data.merge);
       $('.quick').text(data.quick);
       $('.clustering').text(data.clustering);
-      $('.k-means-algorithm').text(data.k-means-algorithm);
-      $('.list-search').text(data.list-search);
-      $('.linear-Search').text(data.linear-Search);
-      $('.binary-Search').text(data.binary-Search);
-      
+      $('.kmeansalgorithm').text(data.kmeansalgorithm);
+      $('.listsearch').text(data.listsearch);
+      $('.linearsearch').text(data.linearsearch);
+      $('.binarysearch').text(data.binarysearch);
+
       //Transalation Will be above here
     });
   }else{
@@ -39,11 +39,11 @@ $(document).ready(function(){
       $('.merge').text(data.merge);
       $('.quick').text(data.quick);
       $('.clustering').text(data.clustering);
-      $('.k-means-algorithm').text(data.k-means-algorithm);
-      $('.list-search').text(data.list-search);
-      $('.linear-Search').text(data.linear-Search);
-      $('.binary-Search').text(data.binary-Search);
-      
+      $('.kmeansalgorithm').text(data.kmeansalgorithm);
+      $('.listsearch').text(data.listsearch);
+      $('.linearsearch').text(data.linearSearch);
+      $('.binarysearch').text(data.binarySearch);
+
       //Transalation Will be above here
     });
   }
