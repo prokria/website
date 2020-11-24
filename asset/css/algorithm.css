@@ -6,6 +6,7 @@ body{
 .logobox{
     height: 200px;
     overflow: hidden;
+    margin-top: -40px;
 }
 .logo{
     height: 120%;
@@ -55,6 +56,36 @@ body{
     margin-left: 0;
     margin-right: 0;
 }
+.radiobtnen{
+    background-color: #6666ff;
+    height: 40px;
+    width: 80px;
+    margin-left: 0px;
+    margin-top: 10px;
+    padding: 5px 2px;
+    border: 2px solid #1a1aff;
+    border-radius: 20px 0px 0px 20px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.radiobtnen:hover{
+    background-color: #1a1aff;
+}
+.radiobtnbn{
+    background-color: #6666ff;
+    height: 40px;
+    width: 80px;
+    margin-left: 50px;
+    margin-top: 10px;
+    padding: 5px 2px;
+    border: 2px solid #1a1aff;
+    border-radius: 0px 20px 20px 0px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.radiobtnbn:hover{
+    background-color: #1a1aff;
+}
 
 @media only screen and (min-width: 768px){
     .raw-jar{
@@ -65,17 +96,28 @@ body{
         margin-left: 100px;
         margin-right: 100px;
     }
+    .radiobtnen{
+        margin-left: 30px;
+    }
+    .radiobtnbn{
+        margin-left: 50px;
+    }
 
 }
 
 @media only screen and (min-width: 1025px){
     .raw-jar{
-        margin-left: 200px;
-        margin-right: 200px;
+        margin-left: 480px;
+        margin-right: 480px;
     }
     .margin{
-        margin-left: 200px;
-        margin-right: 200px;
+        margin-left: 480px;
+        margin-right: 480px;
     }
-
+    .radiobtnen{
+        margin-left: 30px;
+    }
+    .radiobtnbn{
+        margin-left: 0px;
+    }
 }
