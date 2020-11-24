@@ -66,7 +66,6 @@ body{
     border: 2px solid #1a1aff;
     border-radius: 20px 0px 0px 20px;
     transition: 0.3s;
-    cursor: pointer;
 }
 .radiobtnen:hover{
     background-color: #1a1aff;
@@ -81,7 +80,6 @@ body{
     border: 2px solid #1a1aff;
     border-radius: 0px 20px 20px 0px;
     transition: 0.3s;
-    cursor: pointer;
 }
 .radiobtnbn:hover{
     background-color: #1a1aff;
@@ -107,12 +105,12 @@ body{
 
 @media only screen and (min-width: 1025px){
     .raw-jar{
-        margin-left: 480px;
-        margin-right: 480px;
+        margin-left: 400px;
+        margin-right: 400px;
     }
     .margin{
-        margin-left: 480px;
-        margin-right: 480px;
+        margin-left: 400px;
+        margin-right: 400px;
     }
     .radiobtnen{
         margin-left: 30px;
